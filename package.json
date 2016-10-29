@@ -1,0 +1,17 @@
+{
+  "name": "{{package-name}}",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [],
+  "author": "{{author}} <{{email}}>",
+  "bugs": "https://github.com/{{github-username}}/{{package-name}}/issues",
+  "homepage": "https://github.com/{{github-username}}/{{package-name}}#readme",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/{{github-username}}/{{package-name}}.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
